@@ -119,7 +119,7 @@ vertical-align : middle;
 width : 100%;
 }
 #slider_sec {
-background-image : url("file:///E:/Mountainatmygates/img/fnd.jpg");
+background-image : url("../img/fnd.jpg");
 background-position : center center;
 background-repeat : no-repeat;
 background-size : 100% 100%;
@@ -206,7 +206,7 @@ text-align : center;
 }
 .count i {
 color : #515050;
-float : left;
+/*float : left;*/
 font-size : 35px;
 margin-top : 10px;
 }
